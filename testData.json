@@ -3,7 +3,7 @@
     {
       "url": "https://www.google.com",
       "reload": true,
-      "timeout": 5000
+      "timeout": 1000
     },
     {
       "url": "https://www.microsoft.com",

@@ -1,12 +1,15 @@
-[
-  {
-    "url": "https://www.google.com",
-    "reload": true,
-    "timeout": 5000
-  },
-  {
-    "url": "https://www.microsoft.com",
-    "reload": false,
-    "timeout": 3000
-  }
-]
+{
+  "tabs": [
+    {
+      "url": "https://www.google.com",
+      "reload": true,
+      "timeout": 5000
+    },
+    {
+      "url": "https://www.microsoft.com",
+      "reload": false,
+      "timeout": 3000
+    }
+  ],
+  "rotateOnStart": false
+}

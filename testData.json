@@ -16,5 +16,5 @@
       "timeout": 3000
     }
   ],
-  "rotateOnStart": false
+  "rotateOnStart": true
 }

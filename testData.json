@@ -3,15 +3,20 @@
     {
       "url": "https://www.google.com",
       "reload": true,
-      "timeout": 5000
+      "timeout": 15000
     },
     {
       "url": "https://www.microsoft.com",
       "reload": false,
-      "timeout": 3000
+      "timeout": 10000
     },
     {
       "url": "chrome://extensions",
+      "reload": false,
+      "timeout": 3000
+    },
+    {
+      "url": "https://www.sussexcommunity.nhs.uk",
       "reload": false,
       "timeout": 3000
     }

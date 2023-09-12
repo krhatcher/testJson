@@ -17,7 +17,7 @@
     },
     {
       "url": "https://www.sussexcommunity.nhs.uk",
-      "reload": false,
+      "reload": true,
       "timeout": 1000
     }
   ],

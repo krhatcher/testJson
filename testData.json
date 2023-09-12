@@ -19,6 +19,11 @@
       "url": "https://www.sussexcommunity.nhs.uk",
       "reload": true,
       "timeout": 1000
+    },
+    {
+      "url": "https://www.nhs.net",
+      "reload": true,
+      "timeout": 1000
     }
   ],
   "rotateOnStart": true

@@ -9,6 +9,11 @@
       "url": "https://www.microsoft.com",
       "reload": false,
       "timeout": 3000
+    },
+    {
+      "url": "chrome://extensions",
+      "reload": false,
+      "timeout": 3000
     }
   ],
   "rotateOnStart": false
